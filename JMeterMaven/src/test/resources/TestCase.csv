@@ -1,0 +1,3 @@
+mTestCaseId,Description,Keywords,Remarks
+TC001,Open bikroy application,NavigationToApp;ChangeLanguage,
+TC002,Navigate to Login screen ,NavigateToLogin,
